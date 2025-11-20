@@ -1,0 +1,41 @@
+﻿Activity 14 - Quarto Document: 
+
+
+Goal: To create a quarto document in R to display our code from the armed forces data, babynames data, box problem, and what we’ve learned.
+
+
+Needs: R, Quarto
+
+
+Steps: 
+1. Create a YAML header
+2. Revise and add Armed Forces Code
+3. Revise and add Baby Names code
+4. Revise and add box problem code
+5. Add “What I’ve learned” section
+6. Add Code Appendix
+
+
+
+
+
+
+Activity 15 - Repo: 
+
+
+Goal: To create and maintain a repository in GitHub to display our Quarto Document in Activity 14. 
+
+
+Needs: Quarto, R, GitHub, GitHub Desktop
+
+
+Steps:
+1. Create a Repo
+2. Add a branch
+3. Change README file
+4. Create Issues to add code
+5. Push commits to repo side branch
+6. Create a Pull Request to combine branches
+7. Add Quarto file and PDF from Activity 14
+8. Finalize repo
+9. To maintain repo, first, keep GitHub and RStudio updated. Second, we can add new data to the armed forces and babynames data whenever that is released.
